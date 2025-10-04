@@ -10,9 +10,6 @@ Vectorization: It converts the preprocessed messages into numerical features usi
 
 Modeling: A Logistic Regression classifier is used to perform the classification. The entire workflow, from preprocessing to modeling, is streamlined using a scikit-learn pipeline, which ensures consistency and prevents data leakage.
 
-High Accuracy: The model achieved an accuracy of approximately 95% on the test dataset.
-
-Prediction Function: A custom, easy-to-use function is included to classify new, unseen messages as "Spam" or "Ham".
 
 How It Works:
 
